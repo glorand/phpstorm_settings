@@ -9,7 +9,7 @@
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
-    <option name="METHOD_SEPARATORS_COLOR" value="" />
+    <option name="METHOD_SEPARATORS_COLOR" value="ffd400" />
   </colors>
   <attributes>
     <option name="APACHE_CONFIG.ARG_LEXEM">
@@ -12618,12 +12618,15 @@
     </option>
     <option name="TYPO">
       <value>
+        <option name="EFFECT_COLOR" value="135428" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="cccccc" />
+        <option name="ERROR_STRIPE_COLOR" value="85856a" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
