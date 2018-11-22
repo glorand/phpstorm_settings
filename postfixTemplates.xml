@@ -1,8 +1,0 @@
-<application>
-  <component name="PostfixTemplates">
-    <template id="log@userDefined" key=".log" provider="builtin.php" topmost="true">
-      <conditions />
-      <template name="fakeKey" value="logger()-&gt;info('$END$', $EXPR$);" toReformat="true" toShortenFQNames="true" />
-    </template>
-  </component>
-</application>
