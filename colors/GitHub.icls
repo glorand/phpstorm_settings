@@ -46,8 +46,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="cb2100" />
+        <option name="FOREGROUND" value="ff000f" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
@@ -151,7 +150,7 @@
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="7acdff" />
-        <option name="EFFECT_COLOR" value="ff" />
+        <option name="EFFECT_COLOR" value="623ff" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -234,9 +233,8 @@
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7acdff" />
+        <option name="FOREGROUND" value="602ff" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="ff" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
