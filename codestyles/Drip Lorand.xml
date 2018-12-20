@@ -11,6 +11,7 @@
     <option name="FIELDS_DEFAULT_VISIBILITY" value="protected" />
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+    <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
