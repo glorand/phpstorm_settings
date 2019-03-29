@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../app/Automation [rindle]'" />
-    <option name="defaultScopeName" value="Directory '.../app/Automation [rindle]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../app/Automation [rindle]'" />
+    <option name="customScope" value="Directory '.../app/Automation/Conditionals/Operators/SingleSelector [rindle]'" />
+    <option name="defaultScopeName" value="Directory '.../app/Automation/Conditionals/Operators/SingleSelector [rindle]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../app/Automation/Conditionals/Operators/SingleSelector [rindle]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
