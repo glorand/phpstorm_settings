@@ -4,7 +4,7 @@
     <property name="created">2019-01-23T11:49:33</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-07-19T11:11:58</property>
+    <property name="modified">2019-11-29T11:49:04</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -19,6 +19,11 @@
   <attributes>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value />
+    </option>
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff4c11" />
+      </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
