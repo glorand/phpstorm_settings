@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="9ba7bf7e-1552-4dec-8ab3-962a671c417e" name="Laravel Framework" url="http://lorand.rindle-lorand.ngrok.io">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-    </option>
-  </component>
-</application>
