@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".php_cs" type=".env file" />
       <mapping ext="stub" type="PHP" />
       <mapping pattern="855f92484c8c414d36c1b25cb24876e30229cbbf" type="PLAIN_TEXT" />
       <mapping pattern="HasSystemId.php" type="PLAIN_TEXT" />
