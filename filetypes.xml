@@ -2,11 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="stub" type="PHP" />
+      <mapping pattern="f35f731a3b519b03bbcb70be5232df52fffd1070" type="PLAIN_TEXT" />
       <mapping pattern="855f92484c8c414d36c1b25cb24876e30229cbbf" type="PLAIN_TEXT" />
       <mapping pattern="HasSystemId.php" type="PLAIN_TEXT" />
-      <mapping pattern="f35f731a3b519b03bbcb70be5232df52fffd1070" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
