@@ -1,5 +1,18 @@
 <application>
   <component name="NodeJSRemoteInterpreters">
     <interpreter node-remote-interpreter="docker://docker_node:latest/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker2" DOCKER_IMAGE_NAME="docker_node:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
+    <interpreter node-remote-interpreter="docker-compose://[/home/lorandgombos/work/docker/rindle/docker-compose.yml]:workspace/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="workspace" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$USER_HOME$/work/rindle" remote-root="/opt/project" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <dockerComposeConfigurationPaths>
+        <item value="$USER_HOME$/work/docker/rindle/docker-compose.yml" />
+      </dockerComposeConfigurationPaths>
+      <envs />
+    </interpreter>
   </component>
 </application>
